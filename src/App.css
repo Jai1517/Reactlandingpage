@@ -1,0 +1,11 @@
+.App {
+color: rgb(32, 34, 34);
+}
+.p12{
+  display: flex;
+  justify-content: space-around;
+  right: 10px;
+
+}
+
+
